@@ -1,0 +1,11 @@
+Para manejo de archivos en python 
+Para manipular excel instalamos pandas
+!pip install pandas
+
+para manipular pdf instalamos 
+
+!pip install PyPDF2
+
+para manipular word instalamos
+
+!pip install python-docx
